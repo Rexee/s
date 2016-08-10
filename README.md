@@ -8,7 +8,7 @@ S.L("test");
 result in console: `D/DBG: test`
 
 ```java
-S.L("w:%s, h:%s ", width, height);
+S.L("w:%s, h:%s", width, height);
 ```
 result in console: `D/DBG: w:-2147482880, h:-2147482624`
 
