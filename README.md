@@ -1,4 +1,4 @@
-## `S`imple logging
+## `S`imple `L`ogging
 
 #### How to use:
 
