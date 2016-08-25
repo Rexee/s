@@ -18,7 +18,7 @@ S.L(this, "test");
 result in console: `D/DBG: test` and **Toast** with text: `test`
 
 #### How to add:
-Add repository link in project's build.gradle:
+Add repository link in project's `build.gradle`:
 ```groovy
 allprojects {
     repositories {
@@ -27,7 +27,7 @@ allprojects {
     }
 }
 ```
-Add dependency in module's build.gradle:
+Add dependency in module's `build.gradle`:
 ```groovy
 dependencies {
     ...
